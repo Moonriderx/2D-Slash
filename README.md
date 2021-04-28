@@ -1,1 +1,2 @@
-# 2D-Slash
+# 2D-Slash Game
+Genre: Hack And Slash
